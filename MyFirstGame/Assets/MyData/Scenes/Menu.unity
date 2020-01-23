@@ -619,7 +619,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 839531577}
-  m_Text: Start game
+  m_Text: Comenzar
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
@@ -931,7 +931,7 @@ TextMesh:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1483378319}
-  m_Text: Exit
+  m_Text: Salir
   m_OffsetZ: 0
   m_CharacterSize: 1
   m_LineSpacing: 1
